@@ -1,0 +1,7 @@
+{
+  "maxRenderDistance": {
+    // Maximum allowed render distance, 
+    // Default 64
+    "maxRenderDistance": 64
+  }
+}
