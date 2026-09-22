@@ -21,6 +21,7 @@ net.minecraft.client.gui.screens.telemetry.TelemetryInfoScreen {
 net.minecraft.client.gui.screens.SoundOptionsScreen {
 }
 
+<<<<<<< HEAD
 net.minecraft.client.gui.screens.LanguageSelectScreen {
 }
 
@@ -51,3 +52,5 @@ com.mojang.realmsclient.gui.screens.RealmsClientOutdatedScreen {
 net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
+=======
+>>>>>>> 1707dbce93289e28f59b62b6b17fe2b64fda80dd
